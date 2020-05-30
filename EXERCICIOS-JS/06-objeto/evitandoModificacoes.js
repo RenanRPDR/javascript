@@ -30,7 +30,6 @@ carro.nome = 'Palio'
 console.log('Nao trocou nome do carro. Carro:',carro)
 delete carro.nome
 console.log('Nao deletou attr nome. Carro:', carro)
-
 console.log(carro)
 carro.ano = 2000
 console.log(carro)
