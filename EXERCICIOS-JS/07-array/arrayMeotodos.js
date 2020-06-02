@@ -26,5 +26,6 @@ console.log(pilotos)
 const algunsPilotos1 = pilotos.slice(2)
 console.log(algunsPilotos1)
 
+// Pega a partir do primeiro indice e retorna todos antes do quarto indice
 const algunsPilotos2 = pilotos.slice(1, 4)
 console.log(algunsPilotos2)
